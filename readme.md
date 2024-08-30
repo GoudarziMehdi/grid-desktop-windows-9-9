@@ -11,5 +11,5 @@
 
 4. **Keyboard shortcuts**:
    - Utilize **Alt + Windows Key +  Ctrl +  Arrow keys** to navigate seamlessly within the 3x3 virtual desktop grid set by the script.
-    - Utilize **Alt + Ctrl + Arrow keys** to move the current windows to other desktop.
+    - Utilize **Alt + Ctrl + Arrow keys** to move the current window to other desktop.
 For an enhanced experience managing virtual desktops on Windows, consider using **Windows Virtual Desktop Helper**.
